@@ -12,7 +12,7 @@ if is_raining:
     print("Take an umbrella")
 else:
     print("No need to take an umbrella")
-#Match case
+#Match case simple calculator
 a=int(input("Enter First Number: "))
 b=int(input("Enter Second Number: "))
 operation=input("Enter operation (+, -, *, /): ")
