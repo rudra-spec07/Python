@@ -11,3 +11,4 @@
 
 c=int(input("Enter a number: "))
 print(str(c)[::-1])
+
